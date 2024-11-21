@@ -3,7 +3,6 @@
 Ex06-Linux IPC-Shared-memory
 
 ## AIM:
-
 To Write a C program that illustrates two processes communicating using shared memory.
 
 ## DESIGN STEPS:
@@ -132,14 +131,11 @@ fprintf(stderr, "shmdt failed\n"); exit(EXIT_FAILURE);
 ```
 
 ## OUTPUT:
-
-![alt text](6i.png)
-![alt text](6ii.png)
-
-![alt text](6iii.png)
-![alt text](6iv.png)
-![alt text](6v.png)
-
+![image](https://github.com/user-attachments/assets/2f3197e9-e4b3-45e5-aad0-4c9fdb13edfd)
+![image](https://github.com/user-attachments/assets/ca5cbaa1-97fe-4feb-a422-a6c347b2f274)
+![image](https://github.com/user-attachments/assets/8d882566-99cd-4e03-b92e-5ac62138d7ec)
+![image](https://github.com/user-attachments/assets/ad8db794-6b3f-44bb-9354-98bc28b3bbd7)
+![image](https://github.com/user-attachments/assets/92d09967-4a6b-4a76-8ce4-4f7e26b63222)
 
 ## RESULT:
 
